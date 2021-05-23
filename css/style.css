@@ -265,8 +265,9 @@ a:hover{
     font-size: 32px;
     font-weight: 700;
     text-transform: capitalize;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     color: #fff;
+    padding:1px;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
   border-color: #fff;
